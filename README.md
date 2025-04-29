@@ -1,4 +1,4 @@
-# GhostBTC-C#  (Alpha Preview)
+# GhostBTC (Alpha Preview)
 
 ** Linux-only, privacy-focused Bitcoin wallet in C#**  
 * Work in Progress - Not Production Ready *
