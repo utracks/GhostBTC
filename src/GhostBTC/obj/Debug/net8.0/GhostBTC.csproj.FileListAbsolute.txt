@@ -1,0 +1,5 @@
+C:\Users\user2\Desktop\GhostBTC\src\GhostBTC\obj\Debug\net8.0\GhostBTC.csproj.AssemblyReference.cache
+C:\Users\user2\Desktop\GhostBTC\src\GhostBTC\obj\Debug\net8.0\GhostBTC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user2\Desktop\GhostBTC\src\GhostBTC\obj\Debug\net8.0\GhostBTC.AssemblyInfoInputs.cache
+C:\Users\user2\Desktop\GhostBTC\src\GhostBTC\obj\Debug\net8.0\GhostBTC.AssemblyInfo.cs
+C:\Users\user2\Desktop\GhostBTC\src\GhostBTC\obj\Debug\net8.0\GhostBTC.csproj.CoreCompileInputs.cache
