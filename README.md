@@ -1,6 +1,6 @@
 # GhostBTC (Alpha Preview)
 
-** Linux-only, privacy-focused Bitcoin wallet in C#**  
+** Linux only, privacy focused Bitcoin wallet in C#**  
 * Work in Progress - Not Production Ready *
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
